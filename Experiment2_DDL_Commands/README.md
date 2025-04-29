@@ -109,7 +109,9 @@ CREATE TABLE Table_Name (
 
 
 ```sql
-insert into Products(Name,Category,price,Stock) values("Smartphone","Electronics",800,150),("Headphones","Accessories",200,300);
+insert into Products(Name,Category,price,Stock)
+values("Smartphone","Electronics",800,150),
+("Headphones","Accessories",200,300);
 ```
 
 **Output:**
@@ -125,7 +127,8 @@ insert into Products(Name,Category,price,Stock) values("Smartphone","Electronics
 ```sql
  create table item(
 item_id varchar(50) primary key,item_desc varchar(50) not null,
-rate int not null,icom_id char(4),foreign key(icom_id) references company(com_id) on update set null on delete set null);
+rate int not null,icom_id char(4),foreign key(icom_id)
+references company(com_id) on update set null on delete set null);
 ```
 
 **Output:**

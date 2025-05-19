@@ -1,5 +1,6 @@
 # Experiment 6: Joins
-
+### NAME : ADITYA S
+### REG NO : 212223040007
 ## AIM
 To study and implement different types of joins.
 

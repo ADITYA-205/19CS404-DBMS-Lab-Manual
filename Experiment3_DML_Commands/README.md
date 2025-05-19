@@ -1,5 +1,6 @@
 # Experiment 3: DML Commands
-
+### NAME : ADITYA S
+### REG NO : 212223040007
 ## AIM
 To study and implement DML (Data Manipulation Language) commands.
 

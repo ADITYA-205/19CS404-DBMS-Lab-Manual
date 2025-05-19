@@ -1,5 +1,6 @@
 # Experiment 2: DDL Commands
-
+### NAME : ADITYA S
+### REG NO : 212223040007
 ## AIM
 To study and implement DDL commands and different types of constraints.
 

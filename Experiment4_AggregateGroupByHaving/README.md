@@ -1,5 +1,6 @@
 # Experiment 4: Aggregate Functions, Group By and Having Clause
-
+### NAME : ADITYA S
+### REG NO : 212223040007
 ## AIM
 To study and implement aggregate functions, GROUP BY, and HAVING clause with suitable examples.
 
